@@ -1,0 +1,49 @@
+h1 {
+	font-weight: lighter;
+	text-align: center;
+	font-size: 3.2em;
+}
+
+#search-term input {
+	text-align: center;
+	margin: auto;
+	font-size: 1.1em;
+	font-weight: lighter;
+}
+
+#search-term {
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+}
+
+input[type=submit] {
+padding:5px 15px; 
+background:#ccc; 
+border: none;
+cursor:pointer;
+border-radius: 5px; 
+}
+
+#search-results {
+	width: 50%;
+	margin: auto;
+	background-color: #E0E0EB;
+	overflow: hidden;
+}
+
+
+body {
+	font-size: 1.2em;
+	background-color: #C5E0DC;
+}
+
+#search-results img {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#search-results p {
+	margin-top: 30px;
+}
